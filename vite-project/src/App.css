@@ -1,0 +1,12 @@
+table, th, td, tr {
+  border: 1px solid black;
+  width: 100%;
+}
+.add{
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+}
+.add button{
+width: 10%;
+}
